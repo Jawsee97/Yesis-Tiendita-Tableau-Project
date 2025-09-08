@@ -21,7 +21,7 @@ Conducted simple data wrangling and data cleaning:
 - Cleaned the incosistent spelling of the `PRODUCT_NAME` column by using '=IF(C2="T shirt","T-shirt",C2)'
 - Replaced "blank" rows with "Unknown" in the `CUSTOMER_ID` column by using '=IF(A2="","unknown",A2)'
 
-📍 Tableau Dashboard : (https://public.tableau.com/views/YesisTienditaFinalDashboard/YesisTiendita?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+📍 Tableau [Dashboard](https://public.tableau.com/views/YesisTienditaFinalDashboard/YesisTiendita?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Visualization
 
