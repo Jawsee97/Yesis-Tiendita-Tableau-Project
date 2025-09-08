@@ -1,4 +1,4 @@
-# 📈 Yesi's Tiendita Tableau Project
+# 🏡 Yesi's Tiendita Tableau Project
 ## 📚 Background
 
 My family owns a small business in the heart of my hometown of Santa Ana, CA with a HORRIBLE SECRET, they had little to NO data 😱 In the midst of preparing to ask around the community for free data consulting, I had a conversation with my mom that sparked my interest into getting to know what is REALLY going on in my families small business, surely they have to be doing something right since they have been open since 2020 right ? 😅
