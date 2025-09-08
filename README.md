@@ -7,7 +7,7 @@ This Tableau Viz was comprised from my families small business dataset containin
 
 ## 💡 Highlights
 
-- Implemented the use of slicers for added timeline filtering
+- Implemented the use of parameters for added timeline filtering
 - Quantity of sales hit almost 10,000 in 2024 v.s. 5,863 in 2025 
 - Profit margines are predicted to go down by 6%, projected by calcualting profit loss between Jan-Aug 2024 through Jan-Aug 2025
 - Top Products were flowers, most notiably Roses and Sunflowers revenue hitting +$24k on the months of February, and May (Most likely due to Valentine's day and Mothers Day)
